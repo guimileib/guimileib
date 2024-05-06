@@ -4,7 +4,7 @@
 Olá, sou Guilherme
 _________________________________________________________________________________________________________________________________
 Sobre mim:
-- 🔭 Sou desvolvedor em Python
+- 🔭 Sou desenvolvedor em Python
 - 🌱 Estou estudando Deeping Learning para IA's
 - 💬 Estudante de Ciência da Computação
 
