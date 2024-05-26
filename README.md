@@ -7,5 +7,6 @@ Sobre mim:
 - 🔭 Sou desenvolvedor em Python
 - 🌱 Estou estudando Deeping Learning para IA's
 - 💬 Estudante de Ciência da Computação
-- 🌐 [Visite o meu Linkedin](www.linkedin.com/in/guimileib)
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/guimileib)
+
 
