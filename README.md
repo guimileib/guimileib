@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">- 🔭 Sou desenvolvedor em Python<br>- 🌱 Estou estudando Deeping Learning para IA's<br>- 💬 Faço Ciência da Computação pela UFU</p>
+<p align="left">- 🔭 Sou desenvolvedor em Python<br>- 🌱 Estou estudando Deeping Learning para IA's<br>- 💬 Faço Ciência da Computação pela UFU <br> </p>
+<a href='https://guimileib.github.io/'>Visite meu Portfólio</a>
 
 ###
 
