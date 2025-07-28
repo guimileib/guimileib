@@ -38,7 +38,6 @@
 </div>
 
 <h2 align="left">Mais informações em:</h2>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guimileib/" target="_blank">
