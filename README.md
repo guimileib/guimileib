@@ -37,10 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-
+<h2 align="left">Mais informações em:</h2>
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guimileib/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
+
+###
