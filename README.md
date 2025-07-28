@@ -2,24 +2,17 @@
 
 <h1 align="center">Olá 👋 Bom te ver por aqui!</h1>
 
-###
-
 <p align="left">Eu sou Guilherme, sou estudante de Ciência da Computação e tenho 21 anos.</p>
-
-###
 
 <h2 align="left">Sobre mim</h2>
 
-###
 
 <p align="left">- 🔭 Sou desenvolvedor em Python<br>- 🌱 Estou estudando Deeping Learning para IA's<br>- 💬 Faço Ciência da Computação pela UFU <br> </p>
 <a href='https://guimileib.github.io/'>Visite meu Portfólio</a>
 
-###
 
 <h2 align="center">Eu codo em:</h2>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -37,11 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-<h2 align="left">Mais informações em:</h2>
+<h3 align="left">Mais informações em:</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/guimileib/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
 
-###
