@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá 👋 Bom te ver por aqui!</h1>
 
-<p align="left">Eu sou Guilherme, sou estudante de Ciência da Computação e tenho 21 anos.</p>
+<p align="left">Eu sou Guilherme, sou estudante de Ciência da Computação e tenho 22 anos.</p>
 
 <h2 align="left">Sobre mim</h2>
 
