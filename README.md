@@ -7,7 +7,7 @@
 <h2 align="left">Sobre mim</h2>
 
 
-<p align="left">- 🔭 Sou desenvolvedor em Python<br>- 🌱 Estou estudando Deeping Learning para IA's<br>- 💬 Faço Ciência da Computação pela UFU <br> </p>
+<p align="left">- 🔭 Sou desenvolvedor em Python<br>- 🌱 Estou constantemente em busca de melhorar meus conhecimentos técnicos em AI Agent e Python<br>- 💬 Faço Ciência da Computação pela UFU <br> </p>
 <a href='https://guimileib.github.io/'>Visite meu Portfólio</a>
 
 
